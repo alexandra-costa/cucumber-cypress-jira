@@ -1,0 +1,25 @@
+{
+  "name": "cucumber-cypress-jira",
+  "version": "1.0.0",
+  "description": "Integrates Cypress with Cucumber and Jira",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandra-costa/cucumber-cypress-jira.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandra-costa/cucumber-cypress-jira/issues"
+  },
+  "homepage": "https://github.com/alexandra-costa/cucumber-cypress-jira#readme",
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^14.0.0"
+  }
+}
